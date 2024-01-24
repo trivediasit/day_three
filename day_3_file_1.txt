@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 the first file for day 3
 
 master branch work
 
 
 new branch work
-=======
+
 back to new brnach as the work wasn't saved
 experimental work added
->>>>>>> experimental
+
